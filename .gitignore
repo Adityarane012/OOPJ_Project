@@ -1,0 +1,4 @@
+*.class
+server_sync/
+.DS_Store
+*.log
